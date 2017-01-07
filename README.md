@@ -8,9 +8,7 @@ A level can be chosen by changing the file name when intializing the program.
 Anyone can make their own levels simply by creating a txt file, in which the first line is the
 misspelt sentence, and two new lines after is the solution to the sentence.
 
-Note: words2.txt contains more words than words.txt, but also contains profanity.
-
-The game is still in development, so it still has trouble recognizing plurals.
+Note: words2.txt contains more words (plurals included) than words.txt, but also contains profanity.
 
 Created by Aryan Samuel.
 
